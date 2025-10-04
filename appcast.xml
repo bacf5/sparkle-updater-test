@@ -4,11 +4,11 @@
         <title>Sparkle-update-test</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sat, 04 Oct 2025 13:35:07 +0200</pubDate>
+            <pubDate>Sat, 04 Oct 2025 14:08:39 +0200</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/bacf5/sparkle-updater-test/releases/download/prod/Sparkle-update-test.1.1.dmg" length="1663488" type="application/octet-stream" sparkle:edSignature="KsiuzSj0uKoXHj7dimciOwhfa8RtwDncPJ4+YL+EEycKJfyW09tVt/Jg/JEMAHFhZ2pYF9zaNX1kciHWQGJRDw=="/>
+            <enclosure url="https://github.com/bacf5/sparkle-updater-test/releases/download/prod/Sparkle-update-test.1.1.dmg" length="832512" type="application/octet-stream" sparkle:edSignature="XhkJ8I9xOAxQoAvt0oZJP1IXf5oQsushFTbVH9zlz2GlxjDpUpCjpgGUfgSiE+A9CAL4bjBBtPxWRrh4NKxMAA=="/>
         </item>
     </channel>
 </rss>
